@@ -2,7 +2,7 @@
 
 |URL|Code|ms|
 |-|-|-|
-|https://github.com/morgana-boop|200|355|
-|https://github.com/morgana-boop/mini-soc-lab|200|574|
+|https://github.com/morgana-boop|200|570|
+|https://github.com/morgana-boop/mini-soc-lab|200|722|
 
-Updated: 2026-10-27 11:57 UTC
+Updated: 2026-10-28 12:35 UTC
