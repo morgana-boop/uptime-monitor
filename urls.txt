@@ -1,2 +1,4 @@
 https://github.com/morgana-boop
 https://github.com/morgana-boop/mini-soc-lab
+https://github.com/morgana-boop/c-exercises
+https://github.com/morgana-boop/Trilha
