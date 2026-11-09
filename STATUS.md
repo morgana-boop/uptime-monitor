@@ -2,9 +2,9 @@
 
 |URL|Code|ms|
 |-|-|-|
-|https://github.com/morgana-boop|200|395|
-|https://github.com/morgana-boop/mini-soc-lab|200|469|
-|https://github.com/morgana-boop/c-exercises|200|545|
-|https://github.com/morgana-boop/Trilha|200|485|
+|https://github.com/morgana-boop|200|668|
+|https://github.com/morgana-boop/mini-soc-lab|200|685|
+|https://github.com/morgana-boop/c-exercises|200|884|
+|https://github.com/morgana-boop/Trilha|200|744|
 
-Updated: 2026-11-08 13:09 UTC
+Updated: 2026-11-09 15:54 UTC
